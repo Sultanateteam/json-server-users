@@ -1,0 +1,16 @@
+{
+  "trips": [
+    {
+      "name": "Ali",
+      "title": "male"
+    },
+    {
+      "name": "Vali",
+      "title": "male"
+    },
+    {
+      "name": "Guli",
+      "title": "female"
+    }
+  ]
+}
